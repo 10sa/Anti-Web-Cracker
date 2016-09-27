@@ -7,11 +7,19 @@
   - Link : https://github.com/10sa/Framework-Host-Scanner 
   - Version : 1.0v
   - Made By Tensa.
+  - License : CC-BY
   
  * MetroFramework
   - Link : https://github.com/thielj/MetroFramework
   - Version : 1.2.0.3v
   - Made By Jens Thiel.
+  - License : MIT License
+ 
+ *  HtmlAgilityPack
+  - Link : http://htmlagilitypack.codeplex.com/
+  - Version : 1.4.9.5v
+  - Made By Simon Mourrier, Jeff Klawiter, Stephan Grell.
+  - License : MS-PL (Microsoft Public License)
            
 
 # License
