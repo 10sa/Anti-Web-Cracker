@@ -5,7 +5,7 @@
 # Using Framework / Lib
  * SHFramework
   - Link : https://github.com/10sa/SHFramework
-  - Version : 1.0v
+  - Version : (old) 1.0v
   - Made By Tensa.
   - License : CC-BY
   
